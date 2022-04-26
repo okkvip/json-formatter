@@ -1,5 +1,5 @@
 'use strict';
-
+1489546784760799
 export default {
   get runtime() {
     return getBrowser().runtime;
